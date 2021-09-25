@@ -1,0 +1,2 @@
+gcc -Wextra -Wall -Werror main.c ft_putchar.c ex00/ft_print_alphabet.c ex01/ft_print_reverse_alphabet.c
+
